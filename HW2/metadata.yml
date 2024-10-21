@@ -1,0 +1,12 @@
+---
+:id: 223318339
+:submitters:
+- :name: Diego Tyner
+  :email: dttyner@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-01-19 19:35:51.075499000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-01-19 11:35:51.075499000 Z
+:status: processed
+:score: 100.0
